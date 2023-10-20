@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowWebpageTest", "WebpageTesting\SpecFlowWebpageTest.csproj", "{1DD373C1-5E3B-4914-ABC2-4A41E77CB37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowWebpageTest.Specs", "SpecFlowWebpageTesting.Specs\SpecFlowWebpageTest.Specs.csproj", "{3109ED81-BDC4-4023-B59A-1912D0DCE0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD373C1-5E3B-4914-ABC2-4A41E77CB37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD373C1-5E3B-4914-ABC2-4A41E77CB37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD373C1-5E3B-4914-ABC2-4A41E77CB37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD373C1-5E3B-4914-ABC2-4A41E77CB37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3109ED81-BDC4-4023-B59A-1912D0DCE0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3109ED81-BDC4-4023-B59A-1912D0DCE0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3109ED81-BDC4-4023-B59A-1912D0DCE0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3109ED81-BDC4-4023-B59A-1912D0DCE0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AE5BF7-CA4A-4415-8C60-842C70E10F3A}
+	EndGlobalSection
+EndGlobal
